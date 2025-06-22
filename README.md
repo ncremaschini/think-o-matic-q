@@ -1,7 +1,7 @@
 # Think-o-matic 🧠⚡
 AI-powered workshop preparation and follow-up tool that integrates with Miro and Trello.
 
-> **⚡ Generated with AI**: This entire repository was created through a vibe-coding session with Amazon Q Developer and for educational purposes. Read about the experience in my blog post: [Building Think-o-matic: A Vibe-Coding Journey with Amazon Q](<your-blog-post-url>)
+> **⚡ Generated with AI**: This entire repository was created through a vibe-coding session with Amazon Q Developer and for educational purposes. Read about the experience in my blog post: [Building Think-o-matic: A Vibe-Coding Journey with Amazon Q](https://haveyoutriedrestarting.com/building-think-o-matic-a-vibe-coding-journey-with-amazon-q)
 
 ## 🎯 What it does
 
